@@ -1,1 +1,1 @@
-# comp-vis
+# Computer Vision - Thinh Le
